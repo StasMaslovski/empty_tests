@@ -9,7 +9,7 @@ def test2():
 
 
 def test3():
-    assert True
+    assert False
 
 
 def test4():
@@ -17,4 +17,4 @@ def test4():
 
 
 def test5():
-    assert True
+    assert False
